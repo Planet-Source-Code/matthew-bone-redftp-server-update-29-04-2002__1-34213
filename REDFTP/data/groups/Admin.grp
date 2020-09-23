@@ -1,0 +1,5 @@
+[ADMIN]
+ShortName=Admin
+FullName=Administrator
+Slots=1000000 1000000
+UsedSlots=0 0

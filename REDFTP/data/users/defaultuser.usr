@@ -1,0 +1,15 @@
+[DEFAULTUSER]
+Username=default
+Password=default
+Group=default
+HomeDirectory=c:\
+Flags=8I
+Logins=1
+LastLoggedIn=15.06.2001 - 20:28:07
+Ratio=3
+NumLoggedIn=0
+Credits=140000
+TotalUPKb=0
+TotalDNKb=0
+Idle=0
+Tagline=I Love RedFTPd
